@@ -1,4 +1,4 @@
-### GETTING START `Simple OpenLayers React APP using class, function component` 
+# Getting Started `Simple OpenLayers React APP using class, function component` 
 ### Just Home Page and 2 Pages for Map
 ### `path: "/" for home page`
 ### `path: "/MapwithClass" for the map page made by class component`
